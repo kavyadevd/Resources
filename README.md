@@ -8,3 +8,10 @@ List and files of learning resources
 
 ## Course
 1. [Blog to courses of all foundation and conceptual topics](https://e2eml.school/blog.html#193)
+
+
+## Commands
+1. Check modules installed with pip install and it's versions present in the system
+```
+pip freeze
+```
