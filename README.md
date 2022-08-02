@@ -6,6 +6,9 @@ List and files of learning resources
 1. [Deep Learning for NLP](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
 2. [Understanding basic layer and structure of LSTM - blog](http://research.google.com/pubs/OriolVinyals.html)
 3. [Transformers](https://jalammar.github.io/illustrated-transformer/)
+4. [Random forest visualization](https://www.youtube.com/watch?v=v6VJ2RO66Ag) <br>
+<img src="https://user-images.githubusercontent.com/13993518/182419031-1eaa70bc-5ea7-4b9d-a82c-c032f9125b67.png" alt="Randomforest" width="550px"></img>
+
 
 ## Course
 1. [Blog to courses of all foundation and conceptual topics](https://e2eml.school/blog.html#193)
