@@ -27,6 +27,7 @@ List and files of learning resources
 
 ## Course
 1. [Blog to courses of all foundation and conceptual topics](https://e2eml.school/blog.html#193)
+2. [MIT Deep Learning](https://deeplearning.mit.edu/)
 
 
 ## Commands
