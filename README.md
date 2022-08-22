@@ -29,6 +29,8 @@ List and files of learning resources
 1. [Blog to courses of all foundation and conceptual topics](https://e2eml.school/blog.html#193)
 2. [MIT Deep Learning](https://deeplearning.mit.edu/)
 
+## Misc
+1. [Write clean and scalable code with custom Transformers Sklearn Pipelines](https://medium.com/@benlc77/how-to-write-clean-and-scalable-code-with-custom-transformers-sklearn-pipelines-ecb8e53fe110)<br>
 
 ## Commands
 1. Check modules installed with pip install and it's versions present in the system
