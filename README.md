@@ -31,6 +31,7 @@ List and files of learning resources
 
 ## Misc
 1. [Write clean and scalable code with custom Transformers Sklearn Pipelines](https://medium.com/@benlc77/how-to-write-clean-and-scalable-code-with-custom-transformers-sklearn-pipelines-ecb8e53fe110)<br>
+2. [Cheatsheet: ML, DL, Scraping, Python, R, SQL, Maths & Statistics](https://medium.com/@anushka.datascoop/101-data-science-cheat-sheets-ml-dl-scraping-python-r-sql-maths-statistics-ef30b4d786eb)<br>
 
 ## Commands
 1. Check modules installed with pip install and it's versions present in the system
