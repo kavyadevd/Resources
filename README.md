@@ -1,6 +1,8 @@
 # Resources
 List and files of learning resources
 
+## Quick Lookup
+1. Deep Learning Cheatsheet - Standford [Website](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning), [Consolidated PDF](https://github.com/kavyadevd/Resources/blob/bb01e9f8dbd72f8374271ae8791630e4d890e22c/ML,%20DL,%20AI%20Cheat%20Sheet.pdf)
 
 ## Blogs and videos:
 1. [Deep Learning Basics - Getting started](https://youtu.be/O5xeyoRL95U) - video , [GitHub repo](https://github.com/lexfridman/mit-deep-learning)
