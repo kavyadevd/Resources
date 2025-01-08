@@ -5,8 +5,9 @@ List and files of learning resources
 1. Deep Learning Cheatsheet - Standford [Website](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning), [Consolidated PDF](https://github.com/kavyadevd/Resources/blob/bb01e9f8dbd72f8374271ae8791630e4d890e22c/ML,%20DL,%20AI%20Cheat%20Sheet.pdf)
 
 ## Blogs and videos:
-1. [Deep Learning Basics - Getting started](https://youtu.be/O5xeyoRL95U) - video , [GitHub repo](https://github.com/lexfridman/mit-deep-learning)
-2. [Deep Learnong state of the art - Quick lookup](https://youtu.be/53YvP6gdD7U)<br>
+1. [An introduction to preparing your own dataset for LLM training](https://aws.amazon.com/blogs/machine-learning/an-introduction-to-preparing-your-own-dataset-for-llm-training/)
+2. [Deep Learning Basics - Getting started](https://youtu.be/O5xeyoRL95U) - video , [GitHub repo](https://github.com/lexfridman/mit-deep-learning)
+3. [Deep Learnong state of the art - Quick lookup](https://youtu.be/53YvP6gdD7U)<br>
 >> [BERT and Natural Language Processing](https://www.youtube.com/watch?v=53YvP6gdD7U&t=120s) <br>
 >> [Tesla Autopilot Hardware v2+: Neural Networks at Scale](https://www.youtube.com/watch?v=53YvP6gdD7U&t=840s) <br>
 >> [AdaNet: AutoML with Ensembles](https://www.youtube.com/watch?v=53YvP6gdD7U&t=985s) <br>
